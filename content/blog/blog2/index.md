@@ -1,16 +1,12 @@
 ---
-title: "Profanity in Early Irish" 
-date: 1990-06-16
-tags: ["Irish","philology","profanity","Celtic languages","language modernization"]
-author: ["Dieter Vogelsang","Moritz-Maria von Igelfeld"]
+title: "Recruiting for analyst roles at economic consulting firms" 
+date: 2025-07-07
+tags: ["consulting", "economics", "recruiting"]
+author: "Himani Verma"
 description: "This undergraduate course discusses profanity in Early Irish." 
 summary: "This undergraduate course discusses profanity in Early Irish, and relates such profanity to profanity in modern English." 
-cover:
-    image: "course2.png"
-    alt: "Figure caption"
-    relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://github.com/vhimani/hugo-website"
     Text: "Course portal"
 showToc: true
 disableAnchoredHeadings: false

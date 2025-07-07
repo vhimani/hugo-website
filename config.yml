@@ -1,5 +1,5 @@
 baseURL: "https://vhimani.github.io" 
-title: Moritz-Maria von Igelfeld
+title: Himani Verma
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -12,24 +12,21 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
-          weight: 2
-        - name: Courses
-          url: courses/
+        - name: Home
+          url: /
+          weight: 1
+        - name: About
+          url: about/
+          weight: 2 
+        - name: Research
+          url: research/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
         - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+          url: blog/
+          weight: 4
 
 params:
-    description: "This website hosts Himani Verma's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "This website hosts Himani Verma's research papers, curriculum vitae, and contact information."
     author: Himani Verma
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -44,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["about","research","blog"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -60,31 +57,26 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            - name: About
+              url: about/
+            - name: Research
+              url: research/
             - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: blog/
 
     socialIcons:
         - name: CV
           url: cv.pdf
           title: "CV"
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
+          url: mailto:himani.verma@uci.edu
           title: "Email"
         - name: GitHub
           url: https://github.com/vhimani
           title: "GitHub"
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/vermahimani/
+          title: "LinkedIn"
 
     assets:
         disableScrollBarStyle: true
