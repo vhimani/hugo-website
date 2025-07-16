@@ -4,7 +4,10 @@ date: "2021-08-22"
 tags: ["mathematics", "theory"]
 author: ["Himani Verma"]
 description: "This paper studies select abstract strategy games using a combinatorial and game-theoretic approach." 
+summary: "This paper studies select two-player abstract strategy games using a combinatorial and game-theoretic approach." 
 ---
+
+During the summer of my senior year, I collaborated with students from around the world on a combinatorial game theory project under the mentorship of [Prof. Johanna Franklin](http://johannafranklin.net/) (Hofstra University) through the **Polymath Jr REU** program. The program features collaborative research projects across diverse mathematical topics and operates in the spirit of the original Polymath Project. Each project is guided by an active researcher with a strong background in undergraduate mentoring.
 
 ---
 
@@ -22,5 +25,5 @@ Analyses of Tapatan and Picaria, A. G. Adams, L. P. Arceneaux, H. Benham, A. Bha
 
 ##### Related material
 
-+ [Polymath Jr. Program Abstract](https://geometrynyc.wixsite.com/polymathreu/franklin2021)
-+ [Polymath Jr. Program 2021](https://geometrynyc.wixsite.com/polymathreu/results2021)
++ [Polymath Jr. Program Project Original Abstract](https://geometrynyc.wixsite.com/polymathreu/franklin2021)
++ [Polymath Jr. Program 2021 Results](https://geometrynyc.wixsite.com/polymathreu/results2021)
