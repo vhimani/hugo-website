@@ -1,10 +1,9 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
+title: "Analysis of Tapatan and Picaria" 
 date: "2021-08-22"
-tags: ["mathematics"]
+tags: ["mathematics", "theory"]
 author: ["Himani Verma"]
-description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
+description: "This paper studies select abstract strategy games using a combinatorial and game-theoretic approach." 
 ---
 
 ---
@@ -23,4 +22,5 @@ Analyses of Tapatan and Picaria, A. G. Adams, L. P. Arceneaux, H. Benham, A. Bha
 
 ##### Related material
 
-+ [Polymath Jr. Program](https://geometrynyc.wixsite.com/polymathreu/results2021)
++ [Polymath Jr. Program Abstract](https://geometrynyc.wixsite.com/polymathreu/franklin2021)
++ [Polymath Jr. Program 2021](https://geometrynyc.wixsite.com/polymathreu/results2021)

@@ -1,52 +1,33 @@
 ---
-title: "Your Inner Hedgehog" 
-date: 2021-04-06
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
-cover:
-    image: "paper3.png"
-    alt: "Vizualisation of an inner hedgehog"
-    relative: true
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
-
----
+title: "Graph Theory - Select Proofs" 
+date: 2021-05-15
+tags: ["mathematics", "theory"]
+author: ["Himani Verma"]
+description: "This post covers theoretic proofs written on topics in Graph THeory during my involvement in the Directed Reading Program at UT Austin."
 
 ---
 
 ##### Download
 
-+ [Paper](paper3.pdf)
-+ [Raw data](https://github.com/pmichaillat/michez-rule)
-
++ [Bipartite Graphs](biparite_f20.pdf)
++ [Fall 2020 Presentations](https://web.ma.utexas.edu/users/drp/onlineprojects_fall2020.html)
 ---
 
 ##### Abstract
 
-Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.
+In this paper we will discuss a special type of graph – the bipartite graph. We will introduce relevant definitions, work through examples, prove a theorem, and then finally culminate our definitions and examples in the discussion of the application of the theorem.
 
 ---
+##### Download
 
-##### Citation
++ [Bipartite Graphs](biparite_f20.pdf)
++ [Spring 2021 Presentations](https://web.ma.utexas.edu/users/drp/onlineprojects_spring2021.html)
 
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
-
-```BibTeX
-@article{SZI21,
-author = {Hilda Schreiber-Ziegler and Moritz-Maria von Igelfeld},
-year = {2021},
-title ={Your Inner Hedgehog},
-journal = {Journal of Socio-Experimental Psychology},
-volume = {131},
-number = {2},
-pages = {1299--1302}}
-```
+---
+### Abstract
+The talk explores the concept of counting trees in Graph Theory with Matrix Tree Theorem, and extends it to Cayley's formula. Alternatively, Prufer's method is also discussed. Proofs and related examples are worked out.
 
 ---
 
 ##### Related material
-
-+ [Nontechnical summary](https://www.alexandermccallsmith.com/book/your-inner-hedgehog)
++ [UT Math DRP Program](https://web.ma.utexas.edu/users/drp/index.html)
