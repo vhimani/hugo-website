@@ -1,6 +1,6 @@
 ---
 title: "The Finer Points of Sausage Dogs" 
-date: 2020-12
+date: "2021-08-22"
 tags: ["mathematics"]
 author: ["Himani Verma"]
 description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
@@ -11,43 +11,16 @@ summary: "This paper studies the pulmonary efficiency of sausage dogs through se
 
 ##### Download
 
-+ [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk-model)
-
++ [Paper](markov_games_arxiv.pdf)
 ---
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Tapatan and Picaria are traditional abstract strategy games. In this paper, we present a standard combinatorial analysis and game-theoretic analysis of these games and their generalizations to polygonal boards as well as a less standard analysis of the expected outcomes when the players only look ahead a fixed number of moves rather than laying optimally. Some variations are also analyzed.
 
----
-
-##### Figure 2: Dimensions of a sausage dog
-
-![](paper2.png)
-
----
-
-##### Citation
-
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
-
-```BibTeX
-@article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
-```
-
----
+#### Suggested Citation
+Analyses of Tapatan and Picaria, A. G. Adams, L. P. Arceneaux, H. Benham, A. Bhartari; M. Cruz-Larios, Q. Dong, L. F. Estrada, J. Franklin, A. Gangal, Z. J. Hercher, K. J. Martindale, H. P. Neveux, Y. Qiu, X. Shi, M. S. Sun, M. W. Sunseri, H. Tiwari, H. Verma, W. Wang, E. Worrell, and J. Wu, in preparation.
 
 ##### Related material
 
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)
++ [Polymath Jr. Program](https://geometrynyc.wixsite.com/polymathreu/results2021)
